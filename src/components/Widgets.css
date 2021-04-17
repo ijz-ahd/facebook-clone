@@ -1,0 +1,9 @@
+.widgets {
+  position: relative;
+  right: 110px;
+  overflow: visible;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  flex: 0.3;
+}
